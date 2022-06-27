@@ -1,44 +1,17 @@
 # 100DaysOfWebdev
 
-## Day1
- What is a HTML?
-- HTML is Hyper Text Markup Language
-   here html is not a programming language    
-- It is a backbone of website
-- without Html you can't make any website
-- It is the simplest language in the world  
-  as you don't get any errors while working 
-  with Html.
-  
- Tags Of Html : 
- - Html, head, title, body, heading tags ,
-  anchor tag, break row tag, link tag , 
-  image tag.
-- These are the basic tags which is useful 
-   to start your Html journey.
-   
-🚩HTML
+- [✔️] ♾️ 1 > [What is HTML?](https://twitter.com/Kelvinparmar12/status/1538382678080180224?s=20&t=Fg_3-rHjKNLTxt3_wiM4rw)
 
-- The `<html>` tag represents the root of 
-   an HTML document.
-- The `<html>` tag is the container for all 
-   other HTML elements.
-- So basically HTML tag is a god father of  
-  all the tags in simple words.  
-  
-🚩Head , Title
+- [✔️] ♾️ 2 > [HTML FORM](https://twitter.com/Kelvinparmar12/status/1538868070067970048?s=20&t=Fg_3-rHjKNLTxt3_wiM4rw)
 
-- Head <head> tag is use for metadata 
-- It is placed between Html and Body tag
+- [✔️] ♾️ 3 > [HTML TAGS](https://twitter.com/Kelvinparmar12/status/1539081832301469697?s=20&t=Fg_3-rHjKNLTxt3_wiM4rw)
 
-- Title <title> tag is used for define title of 
-   web page 
-  
-🚩Body 
+- [✔️] ♾️ 4 > [HTML TABLES](https://twitter.com/Kelvinparmar12/status/1539433391434739712?s=20&t=Fg_3-rHjKNLTxt3_wiM4rw)
 
-- The <body> tag defines the document's 
-   body
-- Your all the code which is useful to make 
-  web page is writing in that tag.
-- There can only be one <body> element in
-   an HTML document per web page.  
+- [✔️] ♾️ 5 > [CSS BASICS](https://twitter.com/Kelvinparmar12/status/1539856467225870338?s=20&t=Fg_3-rHjKNLTxt3_wiM4rw)
+
+- [✔️] ♾️ 6 > [CLASSES, SELECTORS](https://twitter.com/Kelvinparmar12/status/1540149798564765698?s=20&t=Fg_3-rHjKNLTxt3_wiM4rw)
+
+- [✔️] ♾️ 7 > [POSITIONS](https://twitter.com/Kelvinparmar12/status/1540520637378306048?s=20&t=Fg_3-rHjKNLTxt3_wiM4rw)
+
+
